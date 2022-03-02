@@ -8,7 +8,7 @@
 
     <title>Prefeitura de Santa Mônica</title>
 
-    <link rel="canonical" href="index.html">
+    <link rel="canonical" href="index.php">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Playfair&#43;Display:700,900&amp;display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles/index.css">
@@ -30,9 +30,9 @@
     
       <div class="nav-scroller py-1 mb-2">
         <nav class="nav d-flex justify-content-around">
-          <a class="p-2 link-success" href="index.html" accesskey="1">Página Principal</a>
-          <a class="p-2 link-success" href="historia.html" accesskey="2">História</a>
-          <a class="p-2 link-success" href="turismo.html" accesskey="3">Turismo</a>
+          <a class="p-2 link-success" href="index.php" accesskey="1">Página Principal</a>
+          <a class="p-2 link-success" href="historia.php" accesskey="2">História</a>
+          <a class="p-2 link-success" href="turismo.php" accesskey="3">Turismo</a>
           <a class="p-2 link-success" href="#" accesskey="4">Entre em contato</a>
         </nav>
       </div>
