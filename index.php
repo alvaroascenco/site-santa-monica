@@ -47,15 +47,15 @@
           <div class="card-header" id="todayNews">
             <!-- DATE WILL BE INSERTED HERE -->
           </div>
-          <div class="card-body">
+          <article class="card-body">
             <h5 class="card-title">Município decreta estado de emergência devido aos recorrentes desaparecimentos.</h5>
             <p class="card-text">Prefeito pede auxílio a polícia federal para auxiliar na investigação dos sumiços inexplicáveis.</p>
-            <article class="collapse news" id="collapseNews">
+            <div class="collapse news" id="collapseNews">
               <p>
                 Desde junho do último ano vários desaparecimentos foram notificados às autoridades da cidade, mas nenhum caso ainda foi solucionado.
                 A população amedrontada e injustiçada demanda que os culpados sejam encontrados e julgados.
               </p>
-              <section>
+              <div>
                 Em uma entrevista com o o jornal local, o chefe do corpo policial da cidade pede paciência aos habitantes transtornados e desabafa:
                 <figure>
                   <blockquote class="bg-light bg-gradient">
@@ -63,48 +63,48 @@
                   </blockquote>
                   <figcaption>-Sgt. Carvalho da Polícia Militar - AL</figcaption>
                 </figure>
-              </section>
-            </article>
+              </div>
+            </div>
             <a class="btn btn-success" data-bs-toggle="collapse" href="#collapseNews" role="button" aria-expanded="false" aria-controls="collapseNews">
               Ler notícia completa
             </a>
-          </div>
+          </article>
         </div>
         <div class="card my-3">
           <div class="card-header">
             04/10/2021
           </div>
-          <div class="card-body">
+          <article class="card-body">
             <h5 class="card-title">Nova praça inaugurada no bairro Nova Alvorada.</h5>
             <p class="card-text">Para aproveitar o fim de semana, as crianças da cidade se reuniram em uma gincana promovida pela prefeitura.</p>
-            <article class="collapse news" id="collapseNews2">
+            <div class="collapse news" id="collapseNews2">
               <p>
                 Neste último sábado (02) foi organizada uma gincana pela prefeitura para promover a nova praça inaugurada no bairro Nova Alvorada, na zona leste do município.
                 A prefeitura também disponibilizou bolas, tacos, pipoca e refrigerante para as crianças e para a população em geral para comemorar o dia das crianças que acontece no dia 12 deste mês.
               </p>
-            </article>
+            </div>
             <a class="btn btn-success" data-bs-toggle="collapse" href="#collapseNews2" role="button" aria-expanded="false" aria-controls="collapseNews2">
               Ler notícia completa
             </a>
-          </div>
+          </article>
         </div>
         <div class="card my-3">
           <div class="card-header">
             15/06/2021
           </div>
-          <div class="card-body">
+          <article class="card-body">
             <h5 class="card-title">Moradora do bairro Jacarepaguá desaparece na manhã de quinta-feira.</h5>
             <p class="card-text">Maria das Graças Garcia, de 35 anos saiu para trabalhar em Olho D'água Das Flores no último dia 10 e não retornou desde então.</p>
-            <article class="collapse news" id="collapseNews3">
+            <div class="collapse news" id="collapseNews3">
               <p>
                 A mulher saiu de sua casa na para ir ao seu trabalho mas, após 5 dias, ainda não voltou. A polícia está investigando o caso. Os familiares preocupados estão saindo
                 pelas cidades vizinhas procurando pistas: <i>"A polícia não faz nada!"</i> disse o irmão de Maria, transtornado com a situação. 
               </p>
-            </article>
+            </div>
             <a class="btn btn-success" data-bs-toggle="collapse" href="#collapseNews3" role="button" aria-expanded="false" aria-controls="collapseNews3">
               Ler notícia completa
             </a>
-          </div>
+          </article>
         </div>
       </section>
     </main>
