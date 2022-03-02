@@ -38,17 +38,19 @@
     </div>
 
     <main class="container">
-      <h3 class="text-center">História</h3>
-      <p>
-        Em 1845 chegavam nas terras onde hoje é Santa Mônica famílias de trabalhadores rurais 
-        cujo povoado foi devastado por enchentes. Ao encontrar terra boa para plantio e cidades próximas as famílias se estabeleceram:
-        Abriram comércio, fundaram escolas, e foram atrás do reconhecimento necessário para ser aceita como cidade pelo governo do Pernambuco na época.
-        O reconhecimento como município foi dado em 1873, o que foi uma grande vitória para o povo de Santa Mônica, que, com o auxílio da administração do estado,
-        foi construído o primeiro hospital da cidade.
-      </p>
-      <div class="d-flex justify-content-center mb-3">
-        <img src="img/capela.jpg" class="img-fluid" alt="Foto de uma igreja"> 
-      </div>
+      <section>
+        <h3 class="text-center">História</h3>
+        <p>
+          Em 1845 chegavam nas terras onde hoje é Santa Mônica famílias de trabalhadores rurais 
+          cujo povoado foi devastado por enchentes. Ao encontrar terra boa para plantio e cidades próximas as famílias se estabeleceram:
+          Abriram comércio, fundaram escolas, e foram atrás do reconhecimento necessário para ser aceita como cidade pelo governo do Pernambuco na época.
+          O reconhecimento como município foi dado em 1873, o que foi uma grande vitória para o povo de Santa Mônica, que, com o auxílio da administração do estado,
+          foi construído o primeiro hospital da cidade.
+        </p>
+        <div class="d-flex justify-content-center mb-3">
+          <img src="img/capela.jpg" class="img-fluid" alt="Foto de uma igreja"> 
+        </div>
+      </section>
     </main>
 
     <footer class="container d-flex justify-content-center">

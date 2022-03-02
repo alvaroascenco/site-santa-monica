@@ -38,21 +38,23 @@
     </div>
 
     <main class="container">
-      <h3 class="text-center">Turismo</h3>
-      <div class="d-flex row">
-        <p class="col-12 col-sm-6 position-relative top-50">
-          A economia local é movida primariamente através de pesca e de plantações de algodão promovida por pequenos latifundiários. 
-          Os agricultores geralmente estão presentes nos grandes centros comerciais do estado para vender suas produções.
-          Existe também uma demanda turística devido ao clima agradável, ao rio e a culinária local composta de pratos que tem como 
-          base a macaxeira, como a tapioca, o bolo, a macazada, e outros.
-          Além disso, suas carnes de panela são muito famosas em feiras culturais, sendo reconhecida como a melhor 
-          carne do estado três vezes no concurso intermunicipal de cultura Alagoana.
-          Em restaurantes ribeirinhos, peixes frescos são a especialidade, tornando a visita destes e casas de 
-          artesanato vizinhas uma das atividades preferidas entre os visitantes e locais no fim de semana. 
-          Uma das personalidades famosas de Santa Mônica é a Darcy Souza, artesã de panelas de barro reconhecida na semana da arte. 
-        </p>
-        <img src="img/pescadores.jpg" alt="Pessoas pescando no rio" class="img-fluid col-sm-6 col-12">
-      </div>
+      <section>
+        <h3 class="text-center">Turismo</h3>
+        <div class="d-flex row">
+          <p class="col-12 col-sm-6 position-relative top-50">
+            A economia local é movida primariamente através de pesca e de plantações de algodão promovida por pequenos latifundiários. 
+            Os agricultores geralmente estão presentes nos grandes centros comerciais do estado para vender suas produções.
+            Existe também uma demanda turística devido ao clima agradável, ao rio e a culinária local composta de pratos que tem como 
+            base a macaxeira, como a tapioca, o bolo, a macazada, e outros.
+            Além disso, suas carnes de panela são muito famosas em feiras culturais, sendo reconhecida como a melhor 
+            carne do estado três vezes no concurso intermunicipal de cultura Alagoana.
+            Em restaurantes ribeirinhos, peixes frescos são a especialidade, tornando a visita destes e casas de 
+            artesanato vizinhas uma das atividades preferidas entre os visitantes e locais no fim de semana. 
+            Uma das personalidades famosas de Santa Mônica é a Darcy Souza, artesã de panelas de barro reconhecida na semana da arte. 
+          </p>
+          <img src="img/pescadores.jpg" alt="Pessoas pescando no rio" class="img-fluid col-sm-6 col-12">
+        </div>
+      </section>
     </main>
 
     <footer class="container d-flex justify-content-center">
