@@ -59,7 +59,7 @@
             <span class="obligatory--warnings obligatory--errorText">E-mail válido obrigatório.</span>
           </div>
           <div class="form-group row mx-1" id="fg--mensagem">
-            <label for="mensagem" class="col-sm-2 col-form-label col-form-label-sm">Mensagem*</label>
+            <label for="mensagemField" class="col-sm-2 col-form-label col-form-label-sm">Mensagem*</label>
             <textarea class="form-control col-12 col-sm-10 form-control-sm" id="mensagemField"></textarea>
           </div>            
           <div class="form-group row mx-1" id="validMensagem">
@@ -68,7 +68,7 @@
           </div>
           <div class="form-group row mx-1">
             <div class="col-12" id="divSubmit">
-              <button type="submit" class="btn  btn-primary mb-4" onClick="validateInputs(event)" id="sendButton">Enviar</button>   
+              <button type="submit" class="btn btn-success mb-4" onClick="validateInputs(event)" id="sendButton">Enviar</button>   
             </div>
           </div>
           <div class="form-group row ">
