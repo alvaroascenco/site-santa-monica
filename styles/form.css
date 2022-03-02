@@ -1,0 +1,68 @@
+/* body {
+    line-height: 0.1;
+} */
+
+/*header img {
+    width: 75px;
+    height: 75px;
+}*/
+
+#formulario{
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.col-form-label-sm{
+    padding-left: 0 !important;
+}
+
+#fg--mensagem{
+    margin-bottom: 0;
+}
+
+#divSubmit{
+    padding: 0;
+}
+
+.btn{
+    margin-top: 1%;
+}
+
+.nav-link{
+    line-height: 1.5 !important;
+}
+
+.obligatory--warnings{
+    font-size: 12px;
+}
+
+.obligatory--errorText{
+    color: red;
+}
+
+#validName{
+    display: none;
+}
+
+#validEmail{
+    display: none;
+}
+
+#validMensagem{
+    margin-top: 15px;
+    display: none;
+}
+
+#obligatory--fields{
+    color: rgba(0,0,0,.5);
+    margin-left: -15px;
+    position: absolute;
+    top: -25px;
+
+}
+
+@media(min-width: 576px){
+    #conteudoNavbarSuportado{
+        margin-left: 45%;
+    }
+}
