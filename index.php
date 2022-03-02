@@ -38,11 +38,11 @@
     </div>
 
     <main class="container">
-      <div class="d-flex justify-content-center">
-        <h3>Notícias</h3>  
-      </div>
-
       <section>
+        <div class="d-flex justify-content-center">
+          <h3>Notícias</h3>  
+        </div>
+
         <div class="card my-3">
           <div class="card-header" id="todayNews">
             <!-- DATE WILL BE INSERTED HERE -->
